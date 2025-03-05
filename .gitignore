@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# gmsh mesh files
+*.msh
+
+# output vtk files
+*.vtk
+*.vtu
+
 # Distribution / packaging
 .Python
 build/
